@@ -1,15 +1,15 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Enemic1Contoler.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\BonusControler.cs">
     <Files>
       <File FileName="Assets\Scripts\GameControler.cs" Line="71" Column="24" />
       <File FileName="Assets\Scripts\GeneradorEnemic1Controler.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\Enemic1Contoler.cs" Line="44" Column="23" />
-      <File FileName="Assets\Scripts\PlayerControl.cs" Line="82" Column="16" />
-      <File FileName="Assets\Enemic3Controler.cs" Line="86" Column="81" />
-      <File FileName="Assets\Scripts\DisparContoler.cs" Line="35" Column="3" />
-      <File FileName="Assets\ControlDisparEnemic.cs" Line="41" Column="1" />
-      <File FileName="Assets\BonusControler.cs" Line="13" Column="43" />
+      <File FileName="Assets\Scripts\Enemic1Contoler.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PlayerControl.cs" Line="1" Column="1" />
+      <File FileName="Assets\Enemic3Controler.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\DisparContoler.cs" Line="1" Column="1" />
+      <File FileName="Assets\ControlDisparEnemic.cs" Line="1" Column="1" />
+      <File FileName="Assets\BonusControler.cs" Line="24" Column="2" />
       <File FileName="Assets\Scripts\GemeradorDisparControler.cs" Line="16" Column="2" />
     </Files>
   </MonoDevelop.Ide.Workbench>
